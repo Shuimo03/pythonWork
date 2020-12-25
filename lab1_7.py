@@ -1,0 +1,2 @@
+fuit = "cherry"
+print(fuit)
